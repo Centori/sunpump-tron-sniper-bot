@@ -1,5 +1,5 @@
 # Snipy Pumpy
-![Screenshot_4](https://github.com/user-attachments/assets/253342fc-65cf-426f-bf7e-7c7c10b2ecc6)
+![logo](https://github.com/user-attachments/assets/0a4d4cab-f785-4c13-998a-338208c93cf2)
 
 This bot is designed to help you snipe and trade newly launched or migrated tokens in sunPump on the TRON blockchain. It's highly configurable and easy to set up.
 
