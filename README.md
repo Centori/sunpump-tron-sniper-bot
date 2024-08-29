@@ -11,6 +11,7 @@ This bot is designed to help you snipe and trade newly launched or migrated toke
 - **Effortless Trading**: Simplify buying and selling tokens on the TRON network with automated trade execution.
 - **Automated Buying and Selling: Automatically buying and selling tokens.
 
+![image](https://github.com/user-attachments/assets/c26908c7-ef9c-432e-af9c-2e00b85f59eb)
 
 
 ## Getting Started
